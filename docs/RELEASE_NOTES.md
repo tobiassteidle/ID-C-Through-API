@@ -1,5 +1,8 @@
 # Release Notes
 
-| Service | Model 	    | Release Date 	| Description 	|
-|---	  |---	        |---	        |---	        |
-| 1.0.0   | v2_20211014 | 16.10.2021 	| Initial Version 	|
+#### Release 1.0.0 (Model v2_20211014) - 16.10.2021
+- Support for Austrai id cards
+- Support for Chile id cards
+- Support for Czech id cards
+- Support for German id cards and passports
+
