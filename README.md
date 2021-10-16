@@ -1,47 +1,22 @@
-# Identity-Card-And-Passport-Classification-API
+# Identity Card and Passport classification API
 Identify and classify IDs and passports on documents.
 
 [REST API Documentation](docs/REST_API.md)
 
-Current Version: [v2_20211014](docs/RELEASE_NOTES.md)
+**Current Version:** [v2_20211014](docs/RELEASE_NOTES.md)
 
-Supported ID Cards:
-"austria_idcard_front",
-"chile_idcard_front",
-"czech_idcard_front",
-"czech_passport_front",
-"german_idcard_back",
-"german_idcard_front",
-"german_idcard_old_back",
-"german_idcard_old_front",
-"german_idcard_temporal_back",
-"german_idcard_temporal_front",
-"german_passport_front",
-"german_residencepermit_back",
-"german_residencepermit_front"
+####Supported ID Cards:
+| COUNTRY 	| TYPE     	| FRONT 	            | EXAMPLE 	                                                            | BACK                 	| EXAMPLE                                                        	    |
+|---------	|----------	|:-----:	            |----------	                                                            |------	                |----------	                                                            |
+| Austria	| IDCARD 	| :heavy_check_mark:   	| ![austria_idcard_front](docs/assets/austria_idcard_front.jpg)   	    | :x:                  	|                                                               	    |
+| Chile 	| IDCARD 	| :heavy_check_mark:   	| ![chile_idcard_front](docs/assets/chile_idcard_front.jpg)   	        | :x:                  	|                                                               	    |
+| Czech 	| IDCARD 	| :heavy_check_mark:   	| ![czech_idcard_front](docs/assets/czech_idcard_front.jpg)   	        | :x:                  	|                                                               	    |
+| Czech 	| PASSPORT 	| :heavy_check_mark:   	| ![czech_passport_front](docs/assets/czech_passport_front.jpg)         | :x:                  	|                                                               	    |
+| Germany 	| IDCARD 	| :heavy_check_mark:   	| ![german_idcard_front](docs/assets/german_idcard_front.jpg)           | :heavy_check_mark:   	| ![german_idcard_back](docs/assets/german_idcard_back.jpg)      	    |
+| Germany 	| IDCARD (old) 	| :heavy_check_mark:   	| ![german_idcard_old_front](docs/assets/german_idcard_old_front.jpg)   | :heavy_check_mark:   	| ![german_idcard_old_back](docs/assets/german_idcard_old_back.jpg)     |
+| Germany 	| IDCARD (temporal) 	| :heavy_check_mark:   	| ![german_idcard_temporal_front](docs/assets/german_idcard_temporal_front.jpg)   | :heavy_check_mark:   	| ![german_idcard_temporal_back](docs/assets/german_idcard_temporal_back.jpg)     |
+| Germany 	| PASSPORT 	| :heavy_check_mark:   	| ![german_passport_front](docs/assets/german_passport_front.jpg)       | :x:               	|                                                                       |
+| Germany 	| RESIDENCE_PERMIT 	| :heavy_check_mark:   	| ![german_residencepermit_front](docs/assets/german_residencepermit_front.jpg)           | :heavy_check_mark:   	| ![german_residencepermit_back](docs/assets/german_residencepermit_back.jpg)      	    |
 
 
-Country | Type | Front | Back 
-
-<table>
-<thead>
-  <tr>
-    <th>Country</th>
-    <th>Type</th>
-    <th>Side</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Model 0</td>
-    <td>asdfasdf</td>
-    <td>
-        <div><span>FRONT</span><span>:white_check_mark:</span></div>
-        <div><span>BACK</span><span>`:confused:`</span></div>
-    </td>
-  </tr>
-</tbody>
-</table>
-
-:x:
-:zipper_mouth_face: 
+ 
