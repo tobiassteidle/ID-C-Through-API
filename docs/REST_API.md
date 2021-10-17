@@ -11,6 +11,12 @@
   `POST`
 
   
+* **HTTP-Headers:**
+  
+    `X-Rapidapi-Host`: `identity-card-and-passport-classification.p.rapidapi.com`  
+    `X-Rapidapi-Key`: `<your api key>`
+
+  
 * **Payload (Body) JSON Format**  
     ``` 
     {

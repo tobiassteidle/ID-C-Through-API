@@ -6,10 +6,6 @@ The Identity Card and Passport classification API is available on [RapidAPI](htt
 
 URL: https://identity-card-and-passport-classification.p.rapidapi.com/api/v1/identification
 
-HTTP-Headers:
-* `X-Rapidapi-Host`: `identity-card-and-passport-classification.p.rapidapi.com`
-* `X-Rapidapi-Key`: `<your api key>`
-
 
 #### Supported ID Cards:
 | COUNTRY 	| TYPE     	| FRONT 	            | EXAMPLE 	                                                            | BACK                 	| EXAMPLE                                                        	    |
