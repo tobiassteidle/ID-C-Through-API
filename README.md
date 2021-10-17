@@ -1,11 +1,17 @@
 # Identity Card and Passport classification API
 Identify and classify IDs and passports on documents.
 
-[REST API Documentation](docs/REST_API.md)
+#### Endpoints
+The Identity Card and Passport classification API is available on [RapidAPI](https://rapidapi.com/tssd/api/identity-card-and-passport-classification/).
 
-**Current Version:** [v2_20211014](docs/RELEASE_NOTES.md)
+URL: https://identity-card-and-passport-classification.p.rapidapi.com/api/v1/identification
 
-####Supported ID Cards:
+HTTP-Headers:
+* `X-Rapidapi-Host`: `identity-card-and-passport-classification.p.rapidapi.com`
+* `X-Rapidapi-Key`: `<your api key>`
+
+
+#### Supported ID Cards:
 | COUNTRY 	| TYPE     	| FRONT 	            | EXAMPLE 	                                                            | BACK                 	| EXAMPLE                                                        	    |
 |---------	|----------	|:-----:	            |----------	                                                            |------	                |----------	                                                            |
 | Austria	| IDCARD 	| :heavy_check_mark:   	| ![austria_idcard_front](docs/assets/austria_idcard_front.jpg)   	    | :x:                  	|                                                               	    |
@@ -18,5 +24,11 @@ Identify and classify IDs and passports on documents.
 | Germany 	| PASSPORT 	| :heavy_check_mark:   	| ![german_passport_front](docs/assets/german_passport_front.jpg)       | :x:               	|                                                                       |
 | Germany 	| RESIDENCE_PERMIT 	| :heavy_check_mark:   	| ![german_residencepermit_front](docs/assets/german_residencepermit_front.jpg)           | :heavy_check_mark:   	| ![german_residencepermit_back](docs/assets/german_residencepermit_back.jpg)      	    |
 
+See [REST API Documentation](docs/REST_API.md) for sample request.
 
- 
+**Current Version:** [v2_20211014](docs/RELEASE_NOTES.md)
+
+### Feature Request or request for new id cards
+For additional features or support for more ID cards / passports etc.  
+[Please create an issue](https://github.com/tobiassteidle/Identity-Card-And-Passport-Classification-API/issues/new).
+
