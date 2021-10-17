@@ -4,7 +4,8 @@ Identify and classify IDs and passports on documents.
 #### Endpoints
 The Identity Card and Passport classification API is available on [RapidAPI](https://rapidapi.com/tssd/api/identity-card-and-passport-classification/).
 
-URL: https://identity-card-and-passport-classification.p.rapidapi.com/api/v1/identification
+URL (authentication required):  
+https://identity-card-and-passport-classification.p.rapidapi.com/api/v1/identification
 
 
 #### Supported ID Cards:
