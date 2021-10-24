@@ -8,8 +8,8 @@ This document describes the current status and the upcoming milestones of the Id
 
 | Status | Milestone | Goals |
 | :---: | :--- | :---: |
-| 🚀 | **[Function Update PDF](#function-update-pdf)** | 3 / 6 |
-| 🚀 | **[Add new ID Cards](#add-new-idcards)** | 0 / 1 |
+| 🚀 | **[Function Update PDF](#function-update-pdf)** | 0 / 2 |
+| 🚀 | **[Add new ID Cards](#add-new-idcards)** | 0 / 9 |
 
 #### Function Update PDF
 > Bug fixes and enhancements in PDF processing
@@ -28,11 +28,11 @@ This document describes the current status and the upcoming milestones of the Id
 
 | Status | Goal | Labels |
 | :---: | :--- | --- |
-| ❌ | ID Card Austria (Back)  |`in progress`|
-| ❌ | ID Card Chile (Back)  |`in progress`|
+| ⭐ | ID Card Austria (Back)  |`ready for training`|
+| ⭐ | ID Card Chile (Back)  |`ready for training`|
 | ❌ | ID Card Czech (Back)  |`in progress`|
-| ❌ | Passport Czech (Back)  |`in progress`|
-| ❌ | Passport Germany (Back)  |`in progress`|
+| ❌ | Passport Czech (Back)  |`open`|
+| ❌ | Passport Germany (Back)  |`open`|
 | ❌ | ID Card France (Front)  |`Backlog`|
 | ❌ | ID Card France (Back)  |`Backlog`|
 | ❌ | ID Card Italy (Front)  |`Backlog`|
