@@ -25,6 +25,8 @@ See [REST API Documentation](docs/REST_API.md) for sample request.
 
 **Current Version:** [v2_20211014](docs/RELEASE_NOTES.md)
 
+#### [Roadmap](docs/ROADMAP.md)
+
 ### Feature Request or request for new id cards
 For additional features or support for more ID cards / passports etc. [please create an issue](https://github.com/tobiassteidle/Identity-Card-And-Passport-Classification-API/issues/new).
 
