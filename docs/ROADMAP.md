@@ -2,14 +2,14 @@
 
 This document describes the current status and the upcoming milestones of the Identity Card and Passport classification API.
 
-*Updated: Sun, 24 Oct 2021*
+*Updated: Mon, 25 Oct 2021*
 
 #### Milestone Summary
 
 | Status | Milestone | Goals |
 | :---: | :--- | :---: |
 | 🚀 | **[Function Update PDF](#function-update-pdf)** | 0 / 2 |
-| 🚀 | **[Add new ID Cards](#add-new-idcards)** | 0 / 9 |
+| 🚀 | **[Add new ID Cards](#add-new-idcards)** | 8 / 9 |
 
 #### Function Update PDF
 > Bug fixes and enhancements in PDF processing
@@ -24,17 +24,17 @@ This document describes the current status and the upcoming milestones of the Id
 #### Add new ID Cards
 > Support for new ID Cards / Passports
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**0 / 9** goals completed **(0%)**
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**8 / 9** goals completed **(89%)**
 
 | Status | Goal | Labels |
 | :---: | :--- | --- |
 | ⭐ | ID Card Austria (Back)  |`ready for training`|
 | ⭐ | ID Card Chile (Back)  |`ready for training`|
-| ❌ | ID Card Czech (Back)  |`in progress`|
-| ❌ | Passport Czech (Back)  |`open`|
-| ❌ | Passport Germany (Back)  |`open`|
-| ❌ | ID Card France (Front)  |`Backlog`|
-| ❌ | ID Card France (Back)  |`Backlog`|
-| ❌ | ID Card Italy (Front)  |`Backlog`|
-| ❌ | ID Card Italy (Back)  |`Backlog`|
+| ⭐ | ID Card Czech (Back)  |`ready for training`|
+| ⭐ | Passport Germany (Back)  |`ready for training`|
+| ⭐ | ID Card France (Front)  |`ready for training`|
+| ⭐ | ID Card France (Back)  |`ready for training`|
+| ⭐ | ID Card Italy (Front)  |`ready for training`|
+| ⭐ | ID Card Italy (Back)  |`ready for training`|
+| ❌ | Execute Training  |`in progress`|
 
