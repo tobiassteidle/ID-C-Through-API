@@ -9,7 +9,7 @@ This document describes the current status and the upcoming milestones of the Id
 | Status | Milestone | Goals |
 | :---: | :--- | :---: |
 | 🚀 | **[Function Update PDF](#function-update-pdf)** | 0 / 2 |
-| 🚀 | **[Add new ID Cards](#add-new-idcards)** | 8 / 9 |
+| 🚀 | **[Add new ID Cards](#add-new-idcards)** | 8 / 17 |
 
 #### Function Update PDF
 > Bug fixes and enhancements in PDF processing
@@ -24,7 +24,7 @@ This document describes the current status and the upcoming milestones of the Id
 #### Add new ID Cards
 > Support for new ID Cards / Passports
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**8 / 9** goals completed **(89%)**
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**8 / 17** goals completed **(47%)**
 
 | Status | Goal | Labels |
 | :---: | :--- | --- |
@@ -36,5 +36,13 @@ This document describes the current status and the upcoming milestones of the Id
 | ⭐ | ID Card France (Back)  |`ready for training`|
 | ⭐ | ID Card Italy (Front)  |`ready for training`|
 | ⭐ | ID Card Italy (Back)  |`ready for training`|
+| ❌ | ID Card Belgian (Front)  |`Backlog`|
+| ❌ | ID Card Belgian (Back)  |`Backlog`|
+| ❌ | ID Card Dutch (Front)  |`Backlog`|
+| ❌ | ID Card Dutch (Back)  |`Backlog`|
+| ❌ | ID Card Belgian (Front)  |`Backlog`|
+| ❌ | ID Card Belgian (Back)  |`Backlog`|
+| ❌ | ID Card Luxembourg (Front)  |`Backlog`|
+| ❌ | ID Card Luxembourg (Back)  |`Backlog`|
 | ❌ | Execute Training  |`in progress`|
 
