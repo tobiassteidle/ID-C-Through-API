@@ -2,14 +2,14 @@
 
 This document describes the current status and the upcoming milestones of the Identity Card and Passport classification API.
 
-*Updated: Mon, 25 Oct 2021*
+*Updated: Sat, 30 Oct 2021*
 
 #### Milestone Summary
 
 | Status | Milestone | Goals |
 | :---: | :--- | :---: |
 | 🚀 | **[Function Update PDF](#function-update-pdf)** | 0 / 2 |
-| 🚀 | **[Add new ID Cards](#add-new-idcards)** | 8 / 17 |
+| 🚀 | **[Add new ID Cards](#add-new-idcards)** | 14 / 15 |
 
 #### Function Update PDF
 > Bug fixes and enhancements in PDF processing
@@ -24,25 +24,23 @@ This document describes the current status and the upcoming milestones of the Id
 #### Add new ID Cards
 > Support for new ID Cards / Passports
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**8 / 17** goals completed **(47%)**
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**14 / 15** goals completed **(93%)**
 
-| Status | Goal | Labels |
+| Status | Goal | Status |
 | :---: | :--- | --- |
-| ⭐ | ID Card Austria (Back)  |`ready for training`|
-| ⭐ | ID Card Chile (Back)  |`ready for training`|
-| ⭐ | ID Card Czech (Back)  |`ready for training`|
-| ⭐ | Passport Germany (Back)  |`ready for training`|
-| ⭐ | ID Card France (Front)  |`ready for training`|
-| ⭐ | ID Card France (Back)  |`ready for training`|
-| ⭐ | ID Card Italy (Front)  |`ready for training`|
-| ⭐ | ID Card Italy (Back)  |`ready for training`|
-| ❌ | ID Card Belgian (Front)  |`Backlog`|
-| ❌ | ID Card Belgian (Back)  |`Backlog`|
-| ❌ | ID Card Dutch (Front)  |`Backlog`|
-| ❌ | ID Card Dutch (Back)  |`Backlog`|
-| ❌ | ID Card Belgian (Front)  |`Backlog`|
-| ❌ | ID Card Belgian (Back)  |`Backlog`|
-| ❌ | ID Card Luxembourg (Front)  |`Backlog`|
-| ❌ | ID Card Luxembourg (Back)  |`Backlog`|
-| ❌ | Execute Training  |`in progress`|
+| ✔ | ID Card Austria (Back)  |`done`|
+| ✔ | ID Card Chile (Back)  |`done`|
+| ✔ | ID Card Czech (Back)  |`done`|
+| ✔ | Passport Germany (Back)  |`done`|
+| ✔ | ID Card France (Front)  |`done`|
+| ✔ | ID Card France (Back)  |`done`|
+| ✔ | ID Card Italy (Front)  |`done`|
+| ✔ | ID Card Italy (Back)  |`done`|
+| ✔ | ID Card Belgian (Front)  |`done`|
+| ✔ | ID Card Belgian (Back)  |`done`|
+| ✔ | ID Card Dutch (Front)  |`done`|
+| ✔ | ID Card Dutch (Back)  |`done`|
+| ✔ | ID Card Luxembourg (Front)  |`done`|
+| ✔ | ID Card Luxembourg (Back)  |`done`|
+| ⭐ | Execute Training  |`in progress`|
 
