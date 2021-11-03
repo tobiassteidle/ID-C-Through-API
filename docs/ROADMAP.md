@@ -1,6 +1,6 @@
-# Identity Card and Passport classification API - Roadmap
+# ID C Through API - Roadmap
 
-This document describes the current status and the upcoming milestones of the Identity Card and Passport classification API.
+This document describes the current status and the upcoming milestones of the ID C Through API.
 
 *Updated: Wed, 03 Nov 2021*
 
@@ -8,17 +8,17 @@ This document describes the current status and the upcoming milestones of the Id
 
 | Status | Milestone | Goals |
 | :---: | :--- | :---: |
-| 🚀 | **[Function Update PDF](#function-update-pdf)** | 0 / 2 |
+| 🚀 | **[Function Update PDF](#function-update-pdf)** | 1 / 2 |
 | ✔ | **[Add new ID Cards](#add-new-idcards)** | 15 / 15 |
 
 #### Function Update PDF
 > Bug fixes and enhancements in PDF processing
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**0 / 2** goals completed **(0%)** 
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**1 / 2** goals completed **(50%)** 
 
 | Status | Goal | Labels |
 | :---: | :--- | --- |
-| ❌ | Error PDF processing  |`bug`|
+| ✔ | Error PDF processing  |`bug`|
 | ❌ | Support for multipage PDFs  |`feature`|
   
 #### Add new ID Cards
