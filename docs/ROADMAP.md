@@ -2,7 +2,7 @@
 
 This document describes the current status and the upcoming milestones of the Identity Card and Passport classification API.
 
-*Updated: Sat, 30 Oct 2021*
+*Updated: Wed, 03 Nov 2021*
 
 #### Milestone Summary
 
