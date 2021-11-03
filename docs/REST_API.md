@@ -1,4 +1,4 @@
-**Identity Card And Passport Classification REST API Documentation**
+**ID C Through REST API Documentation**
 ----
 
 * **URL**
@@ -13,7 +13,7 @@
   
 * **HTTP-Headers:**
   
-    `X-Rapidapi-Host`: `identity-card-and-passport-classification.p.rapidapi.com`  
+    `X-Rapidapi-Host`: `id-c-through.p.rapidapi.com`  
     `X-Rapidapi-Key`: `<your api key>`
 
   
