@@ -9,7 +9,7 @@ This document describes the current status and the upcoming milestones of the Id
 | Status | Milestone | Goals |
 | :---: | :--- | :---: |
 | 🚀 | **[Function Update PDF](#function-update-pdf)** | 0 / 2 |
-| 🚀 | **[Add new ID Cards](#add-new-idcards)** | 14 / 15 |
+| ✔ | **[Add new ID Cards](#add-new-idcards)** | 15 / 15 |
 
 #### Function Update PDF
 > Bug fixes and enhancements in PDF processing
@@ -24,7 +24,7 @@ This document describes the current status and the upcoming milestones of the Id
 #### Add new ID Cards
 > Support for new ID Cards / Passports
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**14 / 15** goals completed **(93%)**
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**15 / 15** goals completed **(100%)**
 
 | Status | Goal | Status |
 | :---: | :--- | --- |
@@ -42,5 +42,5 @@ This document describes the current status and the upcoming milestones of the Id
 | ✔ | ID Card Dutch (Back)  |`done`|
 | ✔ | ID Card Luxembourg (Front)  |`done`|
 | ✔ | ID Card Luxembourg (Back)  |`done`|
-| ⭐ | Execute Training  |`in progress`|
+| ✔ | Execute Training  |`done`|
 
