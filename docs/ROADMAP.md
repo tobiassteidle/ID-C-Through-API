@@ -8,10 +8,10 @@ This document describes the current status and the upcoming milestones of the ID
 
 | Status | Milestone | Goals |
 | :---: | :--- | :---: |
-| 🚀 | **[Function Update PDF](#function-update-pdf)** | 2 / 3 |
+| 🚀 | **[Function Update](#function-update)** | 2 / 3 |
 | ✔ | **[Add new ID Cards](#add-new-idcards)** | 15 / 15 |
 
-#### Function Update PDF
+#### Function Update
 > Bug fixes and enhancements in PDF processing
 
 🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**2 / 3** goals completed **(66%)** 
