@@ -2,24 +2,25 @@
 
 This document describes the current status and the upcoming milestones of the ID C Through API.
 
-*Updated: Wed, 03 Nov 2021*
+*Updated: Thu, 04 Nov 2021*
 
 #### Milestone Summary
 
 | Status | Milestone | Goals |
 | :---: | :--- | :---: |
-| 🚀 | **[Function Update PDF](#function-update-pdf)** | 1 / 2 |
+| 🚀 | **[Function Update PDF](#function-update-pdf)** | 2 / 3 |
 | ✔ | **[Add new ID Cards](#add-new-idcards)** | 15 / 15 |
 
 #### Function Update PDF
 > Bug fixes and enhancements in PDF processing
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**1 / 2** goals completed **(50%)** 
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**2 / 3** goals completed **(66%)** 
 
 | Status | Goal | Labels |
 | :---: | :--- | --- |
 | ✔ | Error PDF processing  |`bug`|
-| ❌ | Support for multipage PDFs  |`feature`|
+| ✔ | Support for multipage PDFs  |`feature`|
+| 🚀 | New Endpoint: Position of the id card on the image  |`feature`|
   
 #### Add new ID Cards
 > Support for new ID Cards / Passports
