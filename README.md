@@ -11,7 +11,7 @@ https://id-c-through.p.rapidapi.com/
 #### Supported ID Cards:
 | COUNTRY 	| TYPE     	| FRONT 	            | EXAMPLE 	                                                            | BACK                 	| EXAMPLE                                                        	    |
 |---------	|----------	|:-----:	            |----------	                                                            |------	                |----------	                                                            |
-| Austria	| IDCARD 	| :heavy_check_mark:   	| ![austria_idcard_front](docs/assets/austria_idcard_front.jpg)   	    | :heavy_check_mark:O                  	| ![austria_idcard_back](docs/assets/austria_idcard_back.png)           |
+| Austria	| IDCARD 	| :heavy_check_mark:   	| ![austria_idcard_front](docs/assets/austria_idcard_front.jpg)   	    | :heavy_check_mark:                  	| ![austria_idcard_back](docs/assets/austria_idcard_back.png)           |
 | Belgian 	| IDCARD 	| :heavy_check_mark:   	| ![belgian_idcard_front](docs/assets/belgian_idcard_front.png)           | :heavy_check_mark:   	| ![belgian_idcard_back](docs/assets/belgian_idcard_back.png)      	    |
 | Chile 	| IDCARD 	| :heavy_check_mark:   	| ![chile_idcard_front](docs/assets/chile_idcard_front.jpg)   	        | :heavy_check_mark:                  	| ![chile_idcard_back](docs/assets/chile_idcard_back.png)               |
 | Czech 	| IDCARD 	| :heavy_check_mark:   	| ![czech_idcard_front](docs/assets/czech_idcard_front.jpg)   	        | :heavy_check_mark:                  	| ![czech_idcard_back](docs/assets/czech_idcard_back.png)        	    |
