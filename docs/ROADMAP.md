@@ -2,19 +2,19 @@
 
 This document describes the current status and the upcoming milestones of the ID C Through API.
 
-*Updated: Thu, 04 Nov 2021*
+*Updated: Thu, 09 Nov 2021*
 
 #### Milestone Summary
 
 | Status | Milestone | Goals |
 | :---: | :--- | :---: |
-| 🚀 | **[Function Update](#function-update)** | 2 / 3 |
+| ✔ | **[Function Update](#function-update)** | 3 / 3 |
 | ✔ | **[Add new ID Cards](#add-new-idcards)** | 15 / 15 |
 
 #### Function Update
 > Bug fixes and enhancements in PDF processing
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**2 / 3** goals completed **(66%)** 
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**3 / 3** goals completed **(100%)** 
 
 | Status | Goal | Labels |
 | :---: | :--- | --- |
