@@ -1,6 +1,6 @@
 # Release Notes
 
-#### Release 1.1.0 (Model v3_20211103) - 09.11.2021
+#### Release 1.1.2 (Model v3_20211103) - 09.11.2021
 - Added support for 4 channel (RGBA) images
 - Added support for multipage PDFs
 - Support for Austria id card (back)
