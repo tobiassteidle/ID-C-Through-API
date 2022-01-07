@@ -1,8 +1,5 @@
 # Release Notes
 
-#### Release 1.3.1 (Model v9_20211231) - 07.01.2022
-- Adjusted ID Card detection
-
 #### Release 1.3.0 (Model v9_20211231) - 04.01.2022
 - New Endpoint /extraction for Information Extraction  
   Extract Informations from Machine Readable Zones (MRZ)
