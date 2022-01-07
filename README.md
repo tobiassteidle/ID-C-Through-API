@@ -27,9 +27,7 @@ https://id-c-through.p.rapidapi.com/
 | Luxembourg| IDCARD 	| :heavy_check_mark:   	| ![luxembourg_idcard_front](docs/assets/luxembourg_idcard_front.png)           | :heavy_check_mark:   	| ![luxembourg_idcard_back](docs/assets/luxembourg_idcard_back.png)      	    |
 
 
-See [REST API Documentation](docs/REST_API.md) for sample request.
-
-**Current Version:** [v3_20211103](docs/RELEASE_NOTES.md)
+**Current Version:** [v9_20211231](docs/RELEASE_NOTES.md)
 
 #### [Roadmap](docs/ROADMAP.md)
 

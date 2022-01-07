@@ -2,7 +2,7 @@
 
 This document describes the current status and the upcoming milestones of the ID C Through API.
 
-*Updated: Thu, 09 Nov 2021*
+*Updated: Fri, 07 Jan 2022*
 
 #### Milestone Summary
 
@@ -14,18 +14,19 @@ This document describes the current status and the upcoming milestones of the ID
 #### Function Update
 > Bug fixes and enhancements in PDF processing
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**3 / 3** goals completed **(100%)** 
+✔ &nbsp;**DONE** &nbsp;&nbsp;📉 &nbsp;&nbsp;**3 / 3** goals completed **(100%)** 
 
-| Status | Goal | Labels |
-| :---: | :--- | --- |
-| ✔ | Error PDF processing  |`bug`|
-| ✔ | Support for multipage PDFs  |`feature`|
-| 🚀 | New Endpoint: Position of the id card on the image  |`feature`|
+| Status | Goal                                               | Labels |
+| :---: |:---------------------------------------------------| --- |
+| ✔ | Error PDF processing                               |`bug`|
+| ✔ | Support for multipage PDFs                         |`feature`|
+| ✔ | New Endpoint: Position of the id card on the image |`feature`|
+| ✔ | New Endpoint: Machine Readable Zone information extraction       |`feature`|
   
 #### Add new ID Cards
 > Support for new ID Cards / Passports
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**15 / 15** goals completed **(100%)**
+✔ &nbsp;**DONE** &nbsp;&nbsp;📉 &nbsp;&nbsp;**15 / 15** goals completed **(100%)**
 
 | Status | Goal | Status |
 | :---: | :--- | --- |
